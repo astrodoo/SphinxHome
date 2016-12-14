@@ -14,6 +14,9 @@ Computations:
 * `Pluto <http://plutocode.ph.unito.it/>`_
 * `Gizmo <http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html>`_
 * `MAD Star - Calculation of Stellar Structure \& Evolution <http://www.astro.wisc.edu/~townsend/static.php?ref=tools>`_
+* `XIM (Virtual X-ray Observatory) <http://www.astro.wisc.edu/our-science/research-areas/high-energy-astrophysics/compact-objects/xim-a-virtual-x-ray-observatory>`_
+* `Atomic Data for Astrophysicists (ATOMDB) <http://www.atomdb.org/index.php>`_
+* `HEASoft (XSPEC/APEC) <http://heasarc.gsfc.nasa.gov/docs/software.html>`_
 * `Illustris Project <http://www.illustris-project.org>`_
 * Numerical Recipes in `Fortran77 <http://www.haoli.org/nr/bookf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
 * IDL
