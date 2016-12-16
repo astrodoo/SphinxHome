@@ -75,7 +75,7 @@ Publications
 
 Refereed Publications:
 
-* `Yoon, D. & Heinz, S. 2016, accepted to MNRAS`_
+* `Yoon, D. & Heinz, S. 2017, MNRAS, 464, 3297`_
 * `Yoon, D., Zdziarski, A., & Heinz, S. 2016, MNRAS, 456, 3638`_
 * `Yoon, D. & Heinz, S. 2015, ApJ, 801, 55`_
 * `Yoon, D., Morsony, B., Heinz, S., et al. 2011, ApJ, 742, 25`_
@@ -84,7 +84,7 @@ Refereed Publications:
 
 .. _All of my publications (in ADS): http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_xct=YES&aut_logic=OR&obj_logic=OR&author=Yoon%2CDoosoo&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1
 
-.. _Yoon, D. & Heinz, S. 2016, accepted to MNRAS: http://adsabs.harvard.edu/abs/2016arXiv161002696Y
+.. _Yoon, D. & Heinz, S. 2017, MNRAS, 464, 3297: http://adsabs.harvard.edu/abs/2017MNRAS.464.3297Y
 .. _Yoon, D., Zdziarski, A., & Heinz, S. 2016, MNRAS, 456, 3638: http://adsabs.harvard.edu/abs/2016MNRAS.456.3638Y
 .. _Yoon, D. & Heinz, S. 2015, ApJ, 801, 55: http://adsabs.harvard.edu/abs/2015ApJ...801...55Y
 .. _Yoon, D., Morsony, B., Heinz, S., et al. 2011, ApJ, 742, 25: http://adsabs.harvard.edu/abs/2011ApJ...742...25Y
