@@ -4,9 +4,10 @@ Projects
 
 Collection of movie clips for previous and current projects.
 
+
 Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities
 =====================================================================
-`Yoon, Heinz, 2016, MNRAS, 464, 3297 <http://adsabs.harvard.edu/abs/2017MNRAS.464.3297Y>`_
+`Yoon, Heinz, 2017, MNRAS, 464, 3297 <http://adsabs.harvard.edu/abs/2017MNRAS.464.3297Y>`_
 
 .. raw:: html
 

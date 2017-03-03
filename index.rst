@@ -49,6 +49,8 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 .. topic:: News
   
+   * present an oral talk in `APRIM Conference <http://www.aprim2017.tw/>`_ at Taiwan (Jul.3-7,2017)
+   * present an oral talk in key laboratory meeting at Taiwan (Jul.1-3,2017)
    * The paper "*Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities*" is accepted to MNRAS (Oct.05,2016)
    * award the `NSFC Research Fund for Young International Scientists <http://www.nsfc.gov.cn/publish/portal0/tab38/info51758.htm>`_ (Aug.18,2016)
    * attend the Cloudy Workshop at Shandong University (Jun. 20, 2016)

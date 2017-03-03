@@ -18,7 +18,17 @@ Computations:
 * `Atomic Data for Astrophysicists (ATOMDB) <http://www.atomdb.org/index.php>`_
 * `HEASoft (XSPEC/APEC) <http://heasarc.gsfc.nasa.gov/docs/software.html>`_
 * `Illustris Project <http://www.illustris-project.org>`_
+* `FIRE: Feedback In Realistic Environments <http://fire.northwestern.edu/>`_
+* `EAGLE Project: Evolution and Assembly of GaLaxies and their Environments <http://icc.dur.ac.uk/Eagle/>`_
 * Numerical Recipes in `Fortran77 <http://www.haoli.org/nr/bookf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
+* Python
+   * `Dive into Python <http://www.diveintopython.net/toc/index.html>`_
+   * `Anaconda <https://www.continuum.io/>`_
+   * `matplotlib <http://matplotlib.org>`_
+   * `AstroML <http://www.astroml.org>`_
+   * `Asropy <http://www.astropy.org>`_
+   * `YT Project <http://yt-project.org>`_
+   * `PyAtomDB <http://atomdb.readthedocs.io/en/stable/index.html>`_
 * IDL
    * `Coyote's Guide to IDL <http://www.idlcoyote.com/>`_
    * `IDL Astro Library <http://idlastro.gsfc.nasa.gov/>`_
@@ -26,12 +36,6 @@ Computations:
    * `GBT IDL Library <http://gbtidl.nrao.edu/>`_
    * `IDL User's Group <http://idl.selab.re.kr/>`_ (Korean)
    * `Lee's IDL Blog <http://blog.daum.net/_blog/BlogTypeMain.do?blogid=0SAbs>`_ (Korean)
-* Python
-   * `Dive into Python <http://www.diveintopython.net/toc/index.html>`_
-   * `matplotlib <http://matplotlib.org>`_
-   * `AstroML <http://www.astroml.org>`_
-   * `Asropy <http://www.astropy.org>`_
-   * `YT Project <http://yt-project.org>`_
 
 Observations:
 -----------------
@@ -60,6 +64,7 @@ Personal pages:
 -----------------
 * `Research log <http://doosoo.wikidot.com/>`_ 
 * `Facebook <http://www.facebook.com/doosoo>`_
+* `AstroCoffee <http://astrocoffee.tistory.com/>`_ (Korean)
 * `Personal blog <http://centerofworld.tistory.com>`_ (Korean)
 * `Scraps <http://bazzinga.egloos.com>`_ (Korean)
 
