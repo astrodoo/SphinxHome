@@ -2,7 +2,7 @@
 Projects
 ====================
 
-Collection of movie clips for previous and current projects.
+Collection of movie clips for the published work.
 
 
 Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities
@@ -49,6 +49,13 @@ Global Simulations of the Interaction of Microquasar Jets with a Stellar Wind in
   <source src="_static/mv_sphwind_mvMaker.mp4" type="video/mp4">
   </video>
 .. 1440x1080
+
+.. raw:: html
+
+  <video width="700" height="700" controls="controls">
+  <source src="_static/shadow_3d_rot.mp4" type="video/mp4">
+  </video>
+.. 720x720
 
 |
 
