@@ -47,7 +47,9 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 .. _Seoul National University: http://astro2.snu.ac.kr/e_main.php
 .. _Prof. Woong-Tae Kim: http://astro.snu.ac.kr/~wkim/
 
-.. topic:: News
+|
+
+.. topic:: Recent News
   
    * present an oral talk in `APRIM Conference <http://www.aprim2017.tw/>`_ at Taiwan (Jul.3-7,2017)
    * present an oral talk in key laboratory meeting at Taiwan (Jul.1-3,2017)
@@ -69,7 +71,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
    * award `Vilas Conference Presentation Fund <http://grad.wisc.edu/pd/vilas/conference/>`_ 2014 Spring at UW-Madison
    * present a poster in `AAS 223rd <http://aas.org/meetings/223rd-aas-meeting-washington-dc>`_ at Washington (Jan.,2014)
 
-
+|
 Publications
 ====================================
 
