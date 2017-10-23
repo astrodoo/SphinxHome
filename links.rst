@@ -20,6 +20,7 @@ Computations:
 * `Illustris Project <http://www.illustris-project.org>`_
 * `FIRE: Feedback In Realistic Environments <http://fire.northwestern.edu/>`_
 * `EAGLE Project: Evolution and Assembly of GaLaxies and their Environments <http://icc.dur.ac.uk/Eagle/>`_
+* `Einstein Toolkit <http://einsteintoolkit.org/>`_
 * Numerical Recipes in `Fortran77 <http://www.haoli.org/nr/bookf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
 * Python
    * `Dive into Python <http://www.diveintopython.net/toc/index.html>`_
@@ -36,6 +37,8 @@ Computations:
    * `GBT IDL Library <http://gbtidl.nrao.edu/>`_
    * `IDL User's Group <http://idl.selab.re.kr/>`_ (Korean)
    * `Lee's IDL Blog <http://blog.daum.net/_blog/BlogTypeMain.do?blogid=0SAbs>`_ (Korean)
+* Julia
+   * `Julia code language <https://julialang.org/>`_
 
 Observations:
 -----------------
@@ -59,6 +62,7 @@ Miscellaneous:
 * `Monthly Sky Map <http://www.skymaps.com/downloads.html>`_
 * `PhD Comics <http://www.phdcomics.com/comics.php>`_
 * `Prezi <https://prezi.com/>`_
+* `Sphynx-python <http://www.sphinx-doc.org/en/stable/>`_ / `Sphynx-ReST manual <http://rest-sphinx-memo.readthedocs.io/en/latest/intro.html>`_ 
 
 Personal pages:
 -----------------

@@ -51,6 +51,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 .. topic:: Recent News
   
+   * present a seminar talk at the University of Iowa, Iowa city (Sep. 5, 2017)
    * present a poster in `HEAD meeting 16th <http://aas.org/meetings/head16>`_ at Idaho (Aug.20-24,2017)
    * present an oral talk in Accreting black holes and AGN feedback conference at Harbin (Jul.24-27,2017) 
    * present an oral talk in `APRIM Conference <http://www.aprim2017.tw/>`_ at Taiwan (Jul.3-7,2017)
@@ -74,6 +75,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
    * present a poster in `AAS 223rd <http://aas.org/meetings/223rd-aas-meeting-washington-dc>`_ at Washington (Jan.,2014)
 
 |
+
 Publications
 ====================================
 
@@ -81,12 +83,12 @@ Publications
 
 Refereed Publications:
 
+* `Morsony, B., Gracey, B., Workman, J., Yoon, D., 2017, ApJ, 843, 29`_
 * `Yoon, D. & Heinz, S. 2017, MNRAS, 464, 3297`_
 * `Yoon, D., Zdziarski, A., & Heinz, S. 2016, MNRAS, 456, 3638`_
 * `Yoon, D. & Heinz, S. 2015, ApJ, 801, 55`_
-* `Yoon, D., Morsony, B., Heinz, S., et al. 2011, ApJ, 742, 25`_
 * `Kim, W.-T., Seo, W.-Y., Stone, J. M., Yoon, D. & Teuben, P. J. 2012, ApJ, 747, 60`_
-* `Morsony, B., Gracey, B., Workman, J., Yoon, D., 2017, accepted to publication in ApJ`_
+* `Yoon, D., Morsony, B., Heinz, S., et al. 2011, ApJ, 742, 25`_
 
 .. _All of my publications (in ADS): http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_xct=YES&aut_logic=OR&obj_logic=OR&author=Yoon%2CDoosoo&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1
 
@@ -95,7 +97,7 @@ Refereed Publications:
 .. _Yoon, D. & Heinz, S. 2015, ApJ, 801, 55: http://adsabs.harvard.edu/abs/2015ApJ...801...55Y
 .. _Yoon, D., Morsony, B., Heinz, S., et al. 2011, ApJ, 742, 25: http://adsabs.harvard.edu/abs/2011ApJ...742...25Y
 .. _Kim, W.-T., Seo, W.-Y., Stone, J. M., Yoon, D. & Teuben, P. J. 2012, ApJ, 747, 60: http://adsabs.harvard.edu/abs/2012ApJ...747...60K
-.. _Morsony, B., Gracey, B., Workman, J., Yoon, D., 2017, accepted to publication in ApJ: http://adsabs.harvard.edu/abs/2015arXiv150800384M
+.. _Morsony, B., Gracey, B., Workman, J., Yoon, D., 2017, ApJ, 843, 29: http://adsabs.harvard.edu/abs/2017ApJ...843...29M
 
 
 .. image:: _static/word_ds_sphWind.png
