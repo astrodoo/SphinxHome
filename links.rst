@@ -21,7 +21,8 @@ Computations:
 * `FIRE: Feedback In Realistic Environments <http://fire.northwestern.edu/>`_
 * `EAGLE Project: Evolution and Assembly of GaLaxies and their Environments <http://icc.dur.ac.uk/Eagle/>`_
 * `Einstein Toolkit <http://einsteintoolkit.org/>`_
-* Numerical Recipes in `Fortran77 <http://www.haoli.org/nr/bookf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
+* Numerical Recipes in `Fortran77 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookfpdf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
+* `Cloudy: spectral synthesis code <http://www.nublado.org/>`_
 * Python
    * `Dive into Python <http://www.diveintopython.net/toc/index.html>`_
    * `Anaconda <https://www.continuum.io/>`_
@@ -30,13 +31,14 @@ Computations:
    * `Asropy <http://www.astropy.org>`_
    * `YT Project <http://yt-project.org>`_
    * `PyAtomDB <http://atomdb.readthedocs.io/en/stable/index.html>`_
+   * `PYRO: Simple Python-based tutorial on computational methods for hydrodynamics (Zingale, M.) <https://github.com/zingale/pyro2>`_
+   * `pyCloudy: python version of Cloudy <https://sites.google.com/site/pycloudy/>`_
 * IDL
    * `Coyote's Guide to IDL <http://www.idlcoyote.com/>`_
    * `IDL Astro Library <http://idlastro.gsfc.nasa.gov/>`_
    * `Markwardt IDL Library <http://www.physics.wisc.edu/~craigm/idl/idl.html>`_
    * `GBT IDL Library <http://gbtidl.nrao.edu/>`_
    * `IDL User's Group <http://idl.selab.re.kr/>`_ (Korean)
-   * `Lee's IDL Blog <http://blog.daum.net/_blog/BlogTypeMain.do?blogid=0SAbs>`_ (Korean)
 * Julia
    * `Julia code language <https://julialang.org/>`_
 

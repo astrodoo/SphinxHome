@@ -5,6 +5,39 @@ Projects
 Collection of movie clips for the published work.
 
 
+Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I):
+==============================================================================================
+Low-Angular Momentum Case
+=========================
+Yuan, F., Yoon, D., Li, Y., Ho, L., Gan, Z., Guo, F. 2017 ApJ
+
+.. raw:: html
+
+  <video width="700" height="744" controls="controls">
+  <source src="_static/ac1_zoom1_show2.mp4" type="video/mp4">
+  </video>
+.. 658x700
+
+|
+
+
+Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II):
+===============================================================================================
+High-Angular Momentum Case
+==========================
+Yoon, D., Yuan, F., Gan, Z. 2017 in preparation
+
+.. raw:: html
+
+  <video width="700" height="744" controls="controls">
+  <source src="_static/ac5_zoom_show2.mp4" type="video/mp4">
+  </video>
+.. 658x700
+
+|
+
+
+
 Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities
 =====================================================================
 `Yoon, Heinz, 2017, MNRAS, 464, 3297 <http://adsabs.harvard.edu/abs/2017MNRAS.464.3297Y>`_
