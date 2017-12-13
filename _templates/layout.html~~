@@ -17,11 +17,12 @@
 
 {%- set rellinks = [] %}
 {% block rootrellink %}
+    <ul>
     <li><a href="index.html">Home</a> |</li>
-    <li><a href="projects.html">Projects</a> |</li>
+    {#    <li><a href="projects.html">Projects</a> |</li>   #}
     <li><a href="links.html">Links</a> |</li>  
     <li><a href="https://astrodoo.github.io/pyds_manual" target="_blank">Python Routines</a> |</li> 
     <li><a href="https://github.com/astrodoo/ds_idl" target="_blank">IDL Routines</a> |</li>  
-    {% endblock %}
+    </ul>{% endblock %}
 {% block relbar2 %}
 {% endblock %}

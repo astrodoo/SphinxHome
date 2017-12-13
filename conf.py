@@ -29,12 +29,10 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
     'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx.ext.githubpages'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -51,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Profile'
-copyright = u'2014-, DooSoo'
+copyright = u'2014-2017, DooSoo Yoon'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -115,6 +113,9 @@ html_style = "mystyle.css"
 html_theme_options = {
         "nosidebar": "True"
         }
+
+# Add 'Edit on Github' link instead of 'View page source'
+html_context = {"display_github":True}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -208,7 +209,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'Profile.tex', u'Profile Documentation',
-   u'DooSoo', 'manual'),
+   u'DooSoo Yoon', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -252,7 +253,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Profile', u'Profile Documentation',
-   u'DooSoo', 'Profile', 'One line description of project.',
+   u'DooSoo Yoon', 'Profile', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -270,4 +271,4 @@ texinfo_documents = [
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'http://docs.python.org/': None}
+#intersphinx_mapping = {'http://docs.python.org/': None}

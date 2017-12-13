@@ -6,7 +6,7 @@
 .. include:: _static/isonum.txt
 
 DooSoo Yoon
-===================================
+===========
 
 | **CAS PIFI Postdoctoral Fellow** 
 | **High Energy Astrophysics Group**
@@ -19,7 +19,7 @@ DooSoo Yoon
 .. _Curriculum Vitae: _static/Yoon_CV.pdf
 
 About me
-===================================
+--------
 
 I am a CAS PIFI Fellow Postdoctor working with `Prof. Feng Yuan and his group members`_ at `Shanghai Astronomical Observatory`_.
 I truely have diverse interests on astrophysical outflows and their impact on the environment. Currently, I have
@@ -32,10 +32,10 @@ Using theory and/or numerical simulations, I'd studied the dynamics of (semi-)re
 outflows from compact objects interacting with the interstellar matter. My major interests were
 jets from high(low) mass X-ray binaries and bow shock pulsar wind nebulae.
 
-Before starting Phd program in US, as a member of CnTAG, 
+Before starting Phd program in US, as a member of CnTAG at the `Seoul National University`_ in South Korea, 
 I'd studied a gaseous dynamics about barred spiral galaxies
-regarding with the effects of self-gravity at the `Seoul National University`_ in South Korea.
-This work was supervised by `Prof. Woong-Tae Kim`_.
+regarding with the effects of self-gravity .
+This project was supervised by `Prof. Woong-Tae Kim`_.
 
 Outside the research, I love to play any sports especially with ball such as soccer, basket ball, 
 tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guitar.
@@ -77,7 +77,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 |
 
 Publications
-====================================
+------------
 
 `All of my publications (in ADS)`_
 
@@ -104,23 +104,8 @@ Refereed Publications:
    :align: center
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
-.. links
-
-.. test for source code::
-   hey this is source code
-   Oh ye1!!
-
-.. ===== ===== =======
-   A      B    A and B
-   ===== ===== =======
-   ok    ok     ok
-   ===== ===== =======
-
-.. Indices and tables
-  ==================
-  * :ref:`genindex`
-  * :ref:`modindex`
-  * :ref:`search`
+   projects
+   links
 
